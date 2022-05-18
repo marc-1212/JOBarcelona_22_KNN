@@ -3,7 +3,7 @@
 
 ### Explanation
 
-The exercise in xxxx proposes to classify some insects with two databases containing the time and the position in front of a camera of these respective insects. One with the insects classified and one without classifying.
+The exercise in JOBarcelona ’22 proposes to classify some insects with two databases containing the time and the position in front of a camera of these respective insects. One with the insects classified and one without classifying.
 
 ### How can be solved?
 
